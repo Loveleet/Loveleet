@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-25T18:00:02.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 OPR/82.0.4227.33" etag="gGafx3DiLI905lj9RsGM" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-25T18:15:57.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 OPR/82.0.4227.33" etag="FwAw-ki40WMYhK8BNl1q" version="16.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1060" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,7 +98,7 @@
           <mxGeometry x="10" y="165" width="129" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vSgnO1cTgjOjGM7IktXJ-32" value="Verification failed , No. added&lt;br&gt;to blocklist." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="295" width="120" height="30" as="geometry" />
+          <mxGeometry x="10" y="281" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vSgnO1cTgjOjGM7IktXJ-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSgnO1cTgjOjGM7IktXJ-35" target="vSgnO1cTgjOjGM7IktXJ-82">
           <mxGeometry relative="1" as="geometry">
@@ -120,6 +120,9 @@
         <mxCell id="vSgnO1cTgjOjGM7IktXJ-40" value="8 Trip key generated manually" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="281" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSgnO1cTgjOjGM7IktXJ-44" target="vSgnO1cTgjOjGM7IktXJ-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vSgnO1cTgjOjGM7IktXJ-44" value="10 Encrypted&lt;br&gt;Request generated for location" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="388" width="120" height="60" as="geometry" />
         </mxCell>
@@ -134,8 +137,37 @@
             <mxPoint x="-10" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vSgnO1cTgjOjGM7IktXJ-82" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSgnO1cTgjOjGM7IktXJ-82" target="vSgnO1cTgjOjGM7IktXJ-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-82" value="11 Decrypt &lt;br&gt;and get location&lt;br&gt;from GPS&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="542.5" y="377" width="95" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSgnO1cTgjOjGM7IktXJ-84" target="vSgnO1cTgjOjGM7IktXJ-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-84" value="Encrypted request data sent through SMS" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="301" y="393" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-86" value="Encrypt the data on app-register -trip key,&lt;br&gt;set in secret format" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="484.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-88" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSgnO1cTgjOjGM7IktXJ-86" target="vSgnO1cTgjOjGM7IktXJ-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="513" y="515.5" as="sourcePoint" />
+            <mxPoint x="330" y="514" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-89" value="" style="shape=message;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="vSgnO1cTgjOjGM7IktXJ-88">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-90" value="Decrypt the" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="474" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-92" value="SMS&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="490" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
