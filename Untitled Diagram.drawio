@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-25T16:37:29.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 OPR/82.0.4227.33" etag="xBMH1LdTG4EeKNPEIvXf" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-25T17:48:11.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 OPR/82.0.4227.33" etag="K6bunUWHHQmTnv8W4BL8" version="16.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1060" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,6 +23,14 @@
         </mxCell>
         <mxCell id="vSgnO1cTgjOjGM7IktXJ-3" value="2 Install app in mobile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSgnO1cTgjOjGM7IktXJ-4" target="vSgnO1cTgjOjGM7IktXJ-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=9;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSgnO1cTgjOjGM7IktXJ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="212" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vSgnO1cTgjOjGM7IktXJ-4" value="&lt;font style=&quot;font-size: 9px&quot;&gt;4 Enter Key&lt;br&gt;&amp;nbsp;&amp;amp; &lt;br&gt;detail&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="543" y="169" width="95" height="85" as="geometry" />
@@ -73,14 +81,29 @@
             <mxPoint x="240" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vSgnO1cTgjOjGM7IktXJ-20" value="&lt;font size=&quot;1&quot;&gt;If verified the encrypt approval will be sent&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="240" width="200" height="20" as="geometry" />
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-20" value="&lt;font size=&quot;1&quot;&gt;7 If verified the encrypt approval will be sent&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="275" y="240" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vSgnO1cTgjOjGM7IktXJ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSgnO1cTgjOjGM7IktXJ-28" target="WIyWlLk6GJQsqaUBKTNV-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vSgnO1cTgjOjGM7IktXJ-28" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Decrypt and verify &lt;br&gt;the key and&amp;nbsp;&lt;br&gt;data matches with&lt;br&gt;stored vehicle and user data&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSgnO1cTgjOjGM7IktXJ-28" target="vSgnO1cTgjOjGM7IktXJ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-28" value="&lt;font style=&quot;font-size: 8px&quot;&gt;6 Decrypt and verify &lt;br&gt;the key and&amp;nbsp;&lt;br&gt;data matches with&lt;br&gt;stored vehicle and user data&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="165" width="129" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-32" value="Verification failed , No. added&lt;br&gt;to blocklist." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="295" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-35" value="8 Trip Starts" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530.5" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-37" value="&lt;font style=&quot;font-size: 9px&quot;&gt;If no. verified and message &lt;br&gt;received from center point 8starts&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;textOpacity=70;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="305" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-39" value="Stay until confirmation&lt;br&gt;&amp;nbsp;from center not received" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="705" y="196.5" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
