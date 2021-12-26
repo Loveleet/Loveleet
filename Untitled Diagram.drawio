@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-25T18:15:57.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 OPR/82.0.4227.33" etag="FwAw-ki40WMYhK8BNl1q" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-26T07:46:16.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 OPR/82.0.4227.33" etag="OYNX3Y0KPYqUGhwou6qm" version="16.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1060" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="1 Generate Register Key" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;b&gt;1&lt;/b&gt; Generate Register Key" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vSgnO1cTgjOjGM7IktXJ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="vSgnO1cTgjOjGM7IktXJ-28">
@@ -21,10 +21,10 @@
         <mxCell id="vSgnO1cTgjOjGM7IktXJ-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="vSgnO1cTgjOjGM7IktXJ-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;3 Enter Vehicle &lt;br&gt;&amp;amp;&lt;br&gt;&amp;nbsp;User no.&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;b&gt;3&lt;/b&gt; Enter Vehicle &lt;br&gt;&amp;amp;&lt;br&gt;&amp;nbsp;User no.&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="165" y="160" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="vSgnO1cTgjOjGM7IktXJ-3" value="2 Install app in mobile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-3" value="&lt;b&gt;2&lt;/b&gt; Install app in mobile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vSgnO1cTgjOjGM7IktXJ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSgnO1cTgjOjGM7IktXJ-4" target="vSgnO1cTgjOjGM7IktXJ-35">
@@ -58,15 +58,18 @@
             <mxPoint x="-10" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vSgnO1cTgjOjGM7IktXJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=8;exitX=1.015;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSgnO1cTgjOjGM7IktXJ-8" target="vSgnO1cTgjOjGM7IktXJ-4">
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;exitX=0.305;exitY=0.153;exitDx=0;exitDy=0;exitPerimeter=0;opacity=50;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="vSgnO1cTgjOjGM7IktXJ-8">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="573.9749999999999" y="182.005" as="sourcePoint" />
+            <mxPoint x="555" y="184" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="567" y="179" />
+              <mxPoint x="569" y="182" />
+              <mxPoint x="569" y="184" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vSgnO1cTgjOjGM7IktXJ-8" value="5 Key based encrypted data sent through SMS for authentication" style="text;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="287" y="173" width="270" height="20" as="geometry" />
+          <mxGeometry x="283" y="173" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vSgnO1cTgjOjGM7IktXJ-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="vSgnO1cTgjOjGM7IktXJ-4">
           <mxGeometry relative="1" as="geometry">
@@ -79,10 +82,13 @@
             <mxPoint x="-10" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vSgnO1cTgjOjGM7IktXJ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;exitX=0.618;exitY=0.91;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;textOpacity=50;align=center;opacity=50;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="vSgnO1cTgjOjGM7IktXJ-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="267" y="250" as="sourcePoint" />
             <mxPoint x="232" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="233" y="253" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vSgnO1cTgjOjGM7IktXJ-20" value="&lt;font size=&quot;1&quot;&gt;7 If verified the encrypt approval will be sent&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -91,7 +97,7 @@
         <mxCell id="vSgnO1cTgjOjGM7IktXJ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSgnO1cTgjOjGM7IktXJ-28" target="WIyWlLk6GJQsqaUBKTNV-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vSgnO1cTgjOjGM7IktXJ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSgnO1cTgjOjGM7IktXJ-28" target="vSgnO1cTgjOjGM7IktXJ-32">
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;opacity=40;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSgnO1cTgjOjGM7IktXJ-28" target="vSgnO1cTgjOjGM7IktXJ-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vSgnO1cTgjOjGM7IktXJ-28" value="&lt;font style=&quot;font-size: 8px&quot;&gt;6 Decrypt and verify &lt;br&gt;the key and&amp;nbsp;&lt;br&gt;data matches with&lt;br&gt;stored vehicle and user data&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -114,14 +120,8 @@
         <mxCell id="vSgnO1cTgjOjGM7IktXJ-39" value="Stay until confirmation&lt;br&gt;&amp;nbsp;from center not received" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="705" y="196.5" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vSgnO1cTgjOjGM7IktXJ-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSgnO1cTgjOjGM7IktXJ-40" target="vSgnO1cTgjOjGM7IktXJ-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="vSgnO1cTgjOjGM7IktXJ-40" value="8 Trip key generated manually" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="281" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vSgnO1cTgjOjGM7IktXJ-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSgnO1cTgjOjGM7IktXJ-44" target="vSgnO1cTgjOjGM7IktXJ-90">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vSgnO1cTgjOjGM7IktXJ-44" value="10 Encrypted&lt;br&gt;Request generated for location" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="388" width="120" height="60" as="geometry" />
@@ -143,13 +143,22 @@
         <mxCell id="vSgnO1cTgjOjGM7IktXJ-82" value="11 Decrypt &lt;br&gt;and get location&lt;br&gt;from GPS&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="542.5" y="377" width="95" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="vSgnO1cTgjOjGM7IktXJ-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSgnO1cTgjOjGM7IktXJ-84" target="vSgnO1cTgjOjGM7IktXJ-44">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;opacity=30;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="vSgnO1cTgjOjGM7IktXJ-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="281" y="403" as="sourcePoint" />
+            <mxPoint x="300" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vSgnO1cTgjOjGM7IktXJ-84" value="Encrypted request data sent through SMS" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="301" y="393" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vSgnO1cTgjOjGM7IktXJ-86" value="Encrypt the data on app-register -trip key,&lt;br&gt;set in secret format" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fontSize=9;opacity=40;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="vSgnO1cTgjOjGM7IktXJ-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="527" y="499.5" as="sourcePoint" />
+            <mxPoint x="432" y="494.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-86" value="12 Encrypt the data on app-register -trip key, set in defined format" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="484.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vSgnO1cTgjOjGM7IktXJ-88" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSgnO1cTgjOjGM7IktXJ-86" target="vSgnO1cTgjOjGM7IktXJ-90">
@@ -163,11 +172,19 @@
             <mxPoint x="-10" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vSgnO1cTgjOjGM7IktXJ-90" value="Decrypt the" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=11;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSgnO1cTgjOjGM7IktXJ-90" target="vSgnO1cTgjOjGM7IktXJ-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-90" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&amp;nbsp;14 Decrypt&amp;nbsp;&lt;br&gt;the received&lt;br&gt;data&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="474" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vSgnO1cTgjOjGM7IktXJ-92" value="SMS&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="490" width="40" height="20" as="geometry" />
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-92" value="13 Encrypted data set sent through SMS" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="489.5" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vSgnO1cTgjOjGM7IktXJ-99" value="15 Show location pin on map" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="583" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
